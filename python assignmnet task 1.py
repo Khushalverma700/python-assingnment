@@ -1,8 +1,6 @@
-a = 2
-b = 4 
-a + b
-a - b 
-a * b 
-a / b
-
-
+input("first number")
+input("second number")
+print("Addition = first number + second number")
+print("Subtraction = first number - second number")
+print("Multiplication = first number * second number")
+print("Division = first number / second number")
