@@ -4,3 +4,4 @@ msg = welcomme to cafe
 print(fname)
 print(lname)
 result = msg + fname + lname
+print("result")
